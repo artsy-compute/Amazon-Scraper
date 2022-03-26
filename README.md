@@ -7,6 +7,6 @@ A web scraper for Amazon developed in Python using the Selenium and BeautifulSou
 [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 
 # Usage
-The following video shows how to use the Aggie Keyboard after compiling and executing WebScrape.py.
+The following video shows how to use the Amazon-Scraper after compiling and executing WebScrape.py.
 
 [![Amazon Scraper](https://img.youtube.com/vi/Zu_i5F4LV-A/0.jpg)](https://www.youtube.com/watch?v=Zu_i5F4LV-A)
